@@ -1,10 +1,10 @@
 # Design_Pattern_Java
 About Design Pattern &amp; SOLID Principal
 ## Desing Pattern :
-1.Singelton
-2.Observer
-3.Factory
-4.Decorator
+* Singelton
+* Observer
+* Factory
+* Decorator
 5.Adapter
 6.Proxy 
 7.Command
