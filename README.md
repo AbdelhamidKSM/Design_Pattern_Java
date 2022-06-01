@@ -5,15 +5,15 @@ About Design Pattern &amp; SOLID Principal
 * Observer
 * Factory
 * Decorator
-5.Adapter
-6.Proxy 
-7.Command
-8.Template
-9.State
+* Adapter
+* Proxy 
+* Command
+* Template
+* State
 
 ## Solid Principles
-1.Single Responsablity 
-2.Open Closed
-3.Liskov Substitution
-4.Interface Sugregation
-5.Dependency Inversion
+* Single Responsablity 
+* Open Closed
+* Liskov Substitution
+* Interface Sugregation
+* Dependency Inversion
