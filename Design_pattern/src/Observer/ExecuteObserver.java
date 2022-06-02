@@ -11,6 +11,6 @@ public class ExecuteObserver {
         blog.subscribe(userTwo);
 
         blog.blogUpdate(true);
-
     }
+
 }
