@@ -8,7 +8,7 @@ public abstract class Enemy {
         this.name = name;
         this.damage = damage;
     }
-    
+
     public void showUp() {
         System.out.println(String.format("%s is showing Up . Damage is %d ", name, damage));
     }
