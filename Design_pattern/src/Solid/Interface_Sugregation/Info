@@ -1,0 +1,2 @@
+instead of having one interface contains all these methods in one encapsulation
+that makes us enable to separate that for the specific printer as ecoPrinter class
