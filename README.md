@@ -11,6 +11,7 @@ About Design Pattern &amp; SOLID Principal
 * Template
 * State
 
+
 ## Solid Principles
 * Single Responsablity 
 * Open Closed
